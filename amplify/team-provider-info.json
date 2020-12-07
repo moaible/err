@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-err-dev-52117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::300336868397:role/amplify-err-dev-52117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::300336868397:role/amplify-err-dev-52117-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-err-dev-52117-deployment",
+      "UnauthRoleName": "amplify-err-dev-52117-unauthRole",
+      "StackName": "amplify-err-dev-52117",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:300336868397:stack/amplify-err-dev-52117/0b942420-384c-11eb-a4a8-0acb89b0ba98",
+      "AmplifyAppId": "d3saua8h4fe8bl"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3saua8h4fe8bl",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "cognito3a7a11a4": {}
+      }
+    }
+  }
+}
